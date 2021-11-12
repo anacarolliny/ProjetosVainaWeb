@@ -1,0 +1,20 @@
+*{
+    margin:  0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(241, 202, 238);
+    color: blueviolet;
+    
+}
+img{
+    width: vh;
+    border-radius: 30%;
+}
